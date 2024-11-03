@@ -13,3 +13,4 @@ static void PrintAnyWord(string anyString) //anyString - parameeter
         Console.WriteLine(anyString);
     }
 }
+
